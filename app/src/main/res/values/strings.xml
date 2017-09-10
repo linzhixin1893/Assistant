@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">assistant</string>
+    <string name="text_title_search_video">搜索影视</string>
+    <string name="text_bottom_tab_video">影视</string>
+    <string name="text_bottom_tab_music">音乐</string>
+    <string name="text_bottom_tab_app">应用</string>
+    <string name="text_bottom_tab_find">发现</string>
+    <string name="text_bottom_tab_user_center">我的</string>
+</resources>

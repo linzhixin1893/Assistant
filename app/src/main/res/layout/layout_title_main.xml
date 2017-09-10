@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/edt_search_main_title"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="6"
+        android:background="@drawable/shape_title_main"
+        android:drawableLeft="@drawable/img_title_main_search"
+        android:drawablePadding="5dp"
+        android:focusableInTouchMode="false"
+        android:hint="@string/text_title_search_video"
+        android:imeOptions="actionSearch"
+        android:inputType="text"
+        android:paddingLeft="5dp"
+        android:textColor="@color/text_color_gray_light"
+        android:textColorHint="@color/text_color_gray_light"
+        android:textSize="14sp" />
+
+
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="44dp"
+        android:layout_gravity="center_vertical">
+        <ImageView
+            android:id="@+id/iv_music_play_main_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:scaleType="centerInside"
+            android:src="@drawable/img_title_main_music_play" />
+    </FrameLayout>
+
+
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="44dp"
+        android:layout_gravity="center_vertical">
+        <ImageView
+            android:id="@+id/iv_remote_control_main_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:scaleType="centerInside"
+            android:src="@drawable/img_title_main_remote_control" />
+    </FrameLayout>
+
+
+</LinearLayout>

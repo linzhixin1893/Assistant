@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="4dp"
+    android:layout_marginBottom="4dp">
+    <View
+        android:id="@+id/view_line_common_item_header"
+        android:layout_width="3dp"
+        android:layout_height="20dp"
+        android:background="@color/blue"
+        android:layout_centerVertical="true"/>
+
+    <TextView
+        android:id="@+id/tv_item_name_common_item_header"
+        android:layout_toRightOf="@id/view_line_common_item_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="6dp"
+        android:text="全球少儿精选"
+        android:textColor="#333333"
+        android:textSize="17sp"
+        android:layout_centerVertical="true"/>
+
+    <FrameLayout
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:id="@+id/fl_more_common_item_header"
+        android:visibility="gone"
+        android:clickable="true">
+
+        <TextView
+            android:id="@+id/tv_more_common_item_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|right"
+            android:layout_marginRight="20dp"
+            android:text="更多"
+            android:textColor="@color/blue"
+            android:textSize="17sp"/>
+    </FrameLayout>
+</RelativeLayout>

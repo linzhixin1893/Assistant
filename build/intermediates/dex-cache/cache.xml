@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_02717eb5b0a26153a3e200990489adc23d2fdf7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_8ad6b52a1b7382134799fb98620616e67f5ec987/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_a969d0453ab1c83d44d0da68a54d7c5dfef51938/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_44abc075edc6f6e428810ec36a8ce6abcd4d02c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.4.1_940f254a6d2e4eca3c399ddbb846f5f19e5fbaa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7e984f71a5792455a0fa55b0ac8ddb72518ae7aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_9bac963088e6ef882506ae0e3ac321bd7fffbfd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.scwang.smartrefresh/SmartRefreshLayout/1.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d041f19cb4b6f37e01fcb188702c8377ddf3e">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.scwang.smartrefresh-SmartRefreshLayout-1.0.3_b6fdc94a676bbabeb421c041c504fb317077c4b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_2734207ecee6d3ef305119e7074842eb315827a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_2aefb5b9f3fc185744b41bf07b9e32a39626eded/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_4377d70f12d4320727b25a31bf6bcebe346ed5a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdc468d5e0127dc0e617d268d9571aeb1f984be1">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cbbfbeb6165db3c90165da0fa170158259beed3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_1f3676e7cf8207b522a331cc4ffadd0219b6d432/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_d4a8d9895392941a50fcff071050d09ce4eaf8ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.youth.banner/banner/1.4.10/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfdc7bc486bf70c513b96977c51ad083e9e5bda9">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.youth.banner-banner-1.4.10_6686cf18c1260a1f864f7771fffed7033b055605/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_73af1d6fd982fd218e0337ac8e55a117de4e063a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_b8c0f34d483fc5ff9e85c3dc97040239a107ad12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_5869f068e843f3051407c9bace824cd4d3efcc0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_af651dc357a18db79171618c0563febd3ba239e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit2-rxjava2-adapter/1.0.0/e117362a2103f8ec01091ebd2f40aca4e1ada599/retrofit2-rxjava2-adapter-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit2-rxjava2-adapter-1.0.0_b0d942aff52e8f83e15231f5ef59a336e484af70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_70abbd0f2ed53c472f11bc35a4a1bde38fed4b61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_cb8a220a81e594fa296ea04a98004b29cad369a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152cb42678bba28720c755d6dc0fc882b4ddd8e3">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cc551d977be145da21fb51cc557f4356e5501351/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.1/57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb/rxjava-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.0.1_af85fbc7ed516852e03b524d8029e063b42258cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_0af2e25945cb0ef0542264f698d33a0cf99e0f75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_0f7de14d8ccb771404089e0513675e4a2c5bd2c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_87f96b836fab19957d4af228d1d7606432aea422/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7acb40a081f2f164f0c7be3ad1d9f487c57d1c4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_dd39324d04611d3883490c3b0697bc3c3b57f7ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.zhy/percent-support-extends/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29ff8e178d6ef33c8673f430651500068642f833">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.zhy-percent-support-extends-1.1.1_c21e030c1ff1dab16796d278e5870d51f803452e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_f1a6dde2571426ac2af2ac08697dbbb79fc92477/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex.rxjava2-rxandroid-2.0.1_d66fbc2af3d13aec7921c719256a86670344119b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_4ac96a40cc4ea15786a90b2c0109c71ee1d152ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/assistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_08d01a5043e0273ce7dcc951627f1c829562c0c9/classes.dex" />
+    </item>
+
+</items>
